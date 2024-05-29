@@ -182,10 +182,22 @@ else {
                     <button type="submit" class="btn btn-primary"><i class="fa-regular fa-pen-to-square"></i> SUBMIT</button>
                 </div>
                 <div class="col-sm-3 d-grid">
-                    <a class="btn btn-outline-primary" href="/jemzxc_shop/home.php" role="button"><i class="fa-solid fa-ban"></i> CANCEL</a>
+                    <a class="btn btn-outline-danger" href="/jemzxc_shop/home.php" role="button"><i class="fa-solid fa-ban"></i> CANCEL</a>
                 </div>
             </div>
         </form>
     </div>
 </body>
 </html>
+
+<style>
+    body{
+        background: url(imglogo2.png);
+        background-size:cover;
+    }
+
+    *{
+        font-weight: bold;
+    }
+</style>
+
